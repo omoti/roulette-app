@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/omoti/roulette-app/static/css/main.b60b5f1c.css",
-    "main.js": "/omoti/roulette-app/static/js/main.26bdf013.js",
-    "static/js/453.b84bb374.chunk.js": "/omoti/roulette-app/static/js/453.b84bb374.chunk.js",
-    "index.html": "/omoti/roulette-app/index.html",
-    "main.b60b5f1c.css.map": "/omoti/roulette-app/static/css/main.b60b5f1c.css.map",
-    "main.26bdf013.js.map": "/omoti/roulette-app/static/js/main.26bdf013.js.map",
-    "453.b84bb374.chunk.js.map": "/omoti/roulette-app/static/js/453.b84bb374.chunk.js.map"
+    "main.css": "/roulette-app/static/css/main.b60b5f1c.css",
+    "main.js": "/roulette-app/static/js/main.bddc4e1f.js",
+    "static/js/453.b84bb374.chunk.js": "/roulette-app/static/js/453.b84bb374.chunk.js",
+    "index.html": "/roulette-app/index.html",
+    "main.b60b5f1c.css.map": "/roulette-app/static/css/main.b60b5f1c.css.map",
+    "main.bddc4e1f.js.map": "/roulette-app/static/js/main.bddc4e1f.js.map",
+    "453.b84bb374.chunk.js.map": "/roulette-app/static/js/453.b84bb374.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b60b5f1c.css",
-    "static/js/main.26bdf013.js"
+    "static/js/main.bddc4e1f.js"
   ]
 }
